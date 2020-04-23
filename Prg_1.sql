@@ -1,1 +1,1 @@
-Select * from dua1
+Select * from dua1 where x = 1
