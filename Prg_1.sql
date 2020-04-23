@@ -1,0 +1,1 @@
+Select * from dua1
